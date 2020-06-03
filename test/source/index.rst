@@ -23,7 +23,5 @@ Indices and tables
 Contents:
 .. toctree::
    :maxdepth: 2
- 
    hello
-   
    sdfsdsdfdsfd
